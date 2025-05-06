@@ -1,5 +1,5 @@
 In this project, "Practical Application 1", it was asked to explore the data and utliize the attained knowledge of Planda, Pythons to create statistical summaries demonstrating differences in those (from dataset) who accepted and rejected the coupon.  I've reviewed Bar coupons as per the instruction before the indenpendent analysis and I analyzed cheap restaurant (RestaurantLessThan20) coupon acceptance as part of my indedepdent analysis.  Below is my findings from the analysis and summary how the acceptance can be increased.
-Jupyter note book link: https://github.com/nscys2025/B-AIML-PracticalApplication1/blob/main/prompt.ipynb
+Jupyter notebook link: https://github.com/nscys2025/B-AIML-PracticalApplication1/blob/main/prompt.ipynb
 
 # Before Independent Analysis (For Bar Coupon)
 * There are less drivers likely to accept the coupon that goes to the bar less than 3 time compare to that goes to at least once as the acceptance rate dramatically improves for the drivers that goes to the bar at least once.   
